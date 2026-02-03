@@ -1,0 +1,31 @@
+{
+  "feature_names": [
+    "age",
+    "sex",
+    "TSH",
+    "T3",
+    "TT4",
+    "T4U",
+    "FTI",
+    "TBG",
+    "on_thyroxine",
+    "query_on_thyroxine",
+    "on_antithyroid_meds",
+    "sick",
+    "pregnant",
+    "thyroid_surgery",
+    "I131_treatment",
+    "query_hypothyroid",
+    "query_hyperthyroid",
+    "lithium",
+    "goitre",
+    "tumor",
+    "psych"
+  ],
+  "class_names": [
+    "Negative",
+    "Hyperthyroid",
+    "Hypothyroid"
+  ]
+}
+
