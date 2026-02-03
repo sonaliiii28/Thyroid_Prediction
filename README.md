@@ -14,7 +14,7 @@ A clean, modular Streamlit application for thyroid disorder prediction with expl
 
 ```
 project/
-├── app.py                     # Clean UI-only Streamlit code (<250 lines)
+├── app.py                     
 ├── src/
 │   ├── __init__.py
 │   ├── loader.py              # Model, scaler, features loading (cached)
